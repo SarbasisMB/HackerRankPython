@@ -1,4 +1,4 @@
 ### HackerRank Python Practice
 <b>Introduction</b>
-<img src="[https://tmpfiles.nohat.cc/6968821_preview.png](https://www.python.org/static/img/python-logo.png)" length="360" width="180">
+<img src="[[https://tmpfiles.nohat.cc/6968821_preview.png](https://www.python.org/static/img/python-logo.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logicraysacademy.com%2Fblog%2Fwhat-is-python-programming-language%2F&psig=AOvVaw0Fwi1lZ8mNYMBA6b68Szhg&ust=1704008938813000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDJ0YjWtoMDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logicraysacademy.com%2Fblog%2Fwhat-is-python-programming-language%2F&psig=AOvVaw0Fwi1lZ8mNYMBA6b68Szhg&ust=1704008938813000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDJ0YjWtoMDFQAAAAAdAAAAABAD" length="360" width="180">
 <p>This reository is created for practice purpose.<br>Through this, I would like to keep an eye on how the coding skills is improving<br>This repository consists of HackerRank Python programs which are divided in days.</p>
